@@ -22,7 +22,8 @@ Se muestran dos ejemplos aplicados a segmentación de regiones del cerebro human
 ## Contenidos
 
 * [Jupyter Notebook (.ipnyb)](segmentation_watershed.ipynb)
-* [PDF](segmentation_watershed.pdf)
+* [Jupyter Notebook (.PDF)](segmentation_watershed.pdf)
+* [Presentación del Proyecto Final](ImageSegmentation_Watershed.pdf)
 
 
 ![Ejemplo MRI](img/sample_1.png)
